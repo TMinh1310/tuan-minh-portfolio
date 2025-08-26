@@ -72,7 +72,7 @@ export function Hero({ onChatOpen }: HeroProps) {
               variant="outline"
               className="border-primary/50 hover:bg-primary/10 backdrop-blur-sm">
               <a
-                href="public/your-cv.pdf"
+                href="CV_PHAM_TUAN_MINH_20.pdf"
                 target="_blank"
                 rel="noopener noreferrer">
                 <FileUser className="mr-2 h-5 w-5" />
